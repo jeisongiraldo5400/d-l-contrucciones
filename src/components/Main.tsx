@@ -20,11 +20,12 @@ export const Main = () => {
             <div className="row align-items-center">
               <div className="col-md-6 offset-md-6 text-md-end text-center">
                 <h1>D & L - Construcciones</h1>
-                <div className="d-none d-sm-block">Nuestra empresa D&L Construcciones SAS, fue creada para atender las necesidades de construcción, mantenimiento, remodelación, consultoría en diseño y actividades relacionadas con arquitectura e ingeniería. 
+                <div className="d-none d-sm-block">
+                Nuestra empresa D&L Construcciones SAS, fue creada para atender las necesidades de construcción, mantenimiento, remodelación, consultoría en diseño y actividades relacionadas con arquitectura e ingeniería. 
                 <br />
                 La confianza que nuestros clientes han depositado en nuestro personal con más de 30 años de experiencia, nos han permitido transformar las ideas en obrar de calidad, responsabilidad, compromiso y cumplimiento.
                 </div>
-                  <a href="https://wa.me/573115075840?text=Hola,%20bienvenido,%20%C2%BFen%20qu%C3%A9%20te%20podemos%20ayudar?%20" className="btn btn-outline-light m-3">
+                  <a href="https://wa.me/573115075840?text=Hola,%20bienvenido,%20%C2%BFen%20qu%C3%A9%20te%20podemos%20ayudar?%20" className="btn btn-outline-light m-3 d-none d-sm-block">
                     <img src="./images/whatsApp.png" alt="WhatsApp" className='img-whatsapp'/>
                     <span className="ms-2">Escríbenos</span>
                   </a>

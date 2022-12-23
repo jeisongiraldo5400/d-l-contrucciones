@@ -4,7 +4,7 @@ export const Section = () => {
     <section id="tienes-un-proyecto-en-mente">
     <div className="container-fluid">
       <div className="row">
-        <div className="col-12 col-lg-6 p-0 d-none">
+        <div className="col-12 col-lg-6 p-0 d-none d-sm-block">
         <img src="https://www.publicdomainpictures.net/pictures/220000/nahled/constructions-and-buildings.jpg" className="d-block w-100" alt="hawaii-3" />
 
         </div>

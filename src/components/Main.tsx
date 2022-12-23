@@ -1,5 +1,6 @@
 
 import '../styles.css';
+import WhatsApp from './WhatsApp';
 
 export const Main = () => {
   return (
@@ -25,9 +26,9 @@ export const Main = () => {
                 <br />
                 La confianza que nuestros clientes han depositado en nuestro personal con más de 30 años de experiencia, nos han permitido transformar las ideas en obrar de calidad, responsabilidad, compromiso y cumplimiento.
                 </div>
-                  <a href="https://wa.me/573115075840?text=Hola,%20bienvenido,%20%C2%BFen%20qu%C3%A9%20te%20podemos%20ayudar?%20" className="btn btn-outline-light m-3 d-none d-sm-block">
+                  <a href="https://wa.me/573115075840?text=Hola,%20bienvenido,%20%C2%BFen%20qu%C3%A9%20te%20podemos%20ayudar?%20" className="btn btn-outline-light m-3 d-none d-sm-inline">
                     <img src="./images/whatsApp.png" alt="WhatsApp" className='img-whatsapp'/>
-                    <span className="ms-2">Escríbenos</span>
+                    <span className="ms-4">Escríbenos a WhatsApp</span>
                   </a>
                   
                 </div>

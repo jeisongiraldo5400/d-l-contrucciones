@@ -1,0 +1,73 @@
+.text-dyl {
+  color: rgb(238, 195, 5) !important;
+}
+
+.btn-dyl {
+  background-color: #d90504 !important;
+  border-color: #d90504 !important;
+  color: white;
+}
+
+.btn-dyl:hover {
+  background-color: #740f0f;
+}
+
+#header img {
+  width: 80px;
+}
+
+#main .carousel-inner img {
+  max-height: 70vh;
+  object-fit: cover;
+  filter: grayscale(70%);
+}
+
+#carousel {
+  position: relative;
+}
+
+#carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(0, 0, 0, 0.5);
+  color: white;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+  height: 100%;
+}
+
+#carousel .overlay .row .img-whatsapp {
+  width: 50px;
+}
+
+#tienes-un-proyecto-en-mente {
+  background-color: #d90504;
+  color: white
+}
+
+#tienes-un-proyecto-en-mente img {
+  max-width: 100%;
+}
+
+#footer {
+  background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
+}
+
+#footer a {
+  color: white;
+}
+
+.contacto {
+  text-decoration: none;
+  color: #413d3d;
+}
+
+#portafolio {
+  background-color: #222121;
+  color: rgb(196, 191, 191);
+}

@@ -4,9 +4,12 @@ import { Main } from './components/Main'
 import { Footer } from './components/Footer'
 import { Section } from './components/Section'
 
-import './styles.css'
+
 import { Contacto } from './components/Contacto'
 import { Portafolio } from './components/Portafolio'
+import { WhatsApp } from './components/WhatsApp'
+
+import './styles.css'
 
 function App() {
 
@@ -17,6 +20,7 @@ function App() {
       <Section />
       <Portafolio />
       <Contacto />
+      <WhatsApp />
       <Footer />
     </>
   )

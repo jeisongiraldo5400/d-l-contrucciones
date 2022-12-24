@@ -15,18 +15,20 @@ export const Contacto = () => {
           <div className="col-12 col-md-4 mt-2">
             <a href="#" className="contacto card p-4">
             <p>Correo</p>
-            <p>dylconstrucciones@outlook.com</p>
+            <p><strong>dylconstrucciones@outlook.com</strong></p>
           </a>
           </div>
           <div className="col-12 col-md-4 mt-2">
             <a href="#" className="contacto card p-4">
-            <p>Número de contácto</p>
-            <p>3115075840 O 3143319279</p></a>
+              <p>Número de contácto</p>
+              <p>(+57) <strong>3115075840</strong></p>
+              <p>(+57) <strong>3143319279</strong></p>
+            </a>
           </div>
           <div className="col-12 col-md-4 mt-2">
             <a href="#" className="contacto card p-4">
               <p>Dirección</p>
-              <p>Calle 2#7-64 Mosquera cundinamarca</p>
+              <p><strong>Calle 2#7-64 Mosquera cundinamarca</strong></p>
             </a>
           </div>
         </div>

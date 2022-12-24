@@ -13,7 +13,6 @@ export const Section = () => {
           <p className="p-2">
           Contamos con amplia experiencia en desarrollo de proyectos de construcción, remodelación y mantenimientos de edificaciones de vivienda, industria y comercio, entre otros. 
           </p>
-          <a href="https://es.wikipedia.org/wiki/Honolulu" className="btn btn-outline-light">Conoce más</a>
         </div>
       </div>
     </div>

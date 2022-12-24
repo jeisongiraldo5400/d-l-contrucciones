@@ -41,10 +41,6 @@
   height: 100%;
 }
 
-#carousel .overlay .row .img-whatsapp {
-  width: 50px;
-}
-
 #tienes-un-proyecto-en-mente {
   background-color: #d90504;
   color: white
@@ -70,4 +66,23 @@
 #portafolio {
   background-color: #222121;
   color: rgb(196, 191, 191);
+}
+
+
+#watsapp {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  color: white;
+  padding: 20px;
+  z-index: 1000;
+  margin-right: 100px;
+}
+
+
+
+#watsapp img {
+  width: 80px;
+  position: absolute;
+  margin-top: -100px;
 }

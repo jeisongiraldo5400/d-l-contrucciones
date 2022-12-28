@@ -7,13 +7,13 @@ export const Main = () => {
     <div id="carousel" className="carousel slide" data-bs-ride="carousel" data-bs-pause="false">
       <div className="carousel-inner">
         <div className="carousel-item active">
-          <img src="https://www.publicdomainpictures.net/pictures/220000/nahled/constructions-and-buildings.jpg" className="d-block w-100" alt="hawaii-1" />
+          <img src="./images/construccion_2.jpg" className="d-block w-100" alt="Planos de construcción" />
         </div>
         <div className="carousel-item">
-          <img src="https://www.publicdomainpictures.net/pictures/220000/nahled/constructions-and-buildings.jpg" className="d-block w-100" alt="hawaii-2." />
+          <img src="./images/construccion_3.jpeg" className="d-block w-100" alt="Construcción" />
         </div>
         <div className="carousel-item">
-          <img src="https://www.publicdomainpictures.net/pictures/220000/nahled/constructions-and-buildings.jpg" className="d-block w-100" alt="hawaii-3" />
+          <img src="./images/construccion_1.jpeg" className="d-block w-100" alt="Obras" />
         </div>
         <div className="overlay">
           <div className="container">
